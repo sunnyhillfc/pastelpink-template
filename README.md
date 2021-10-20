@@ -1,10 +1,12 @@
 # Pastel Pink Basic HTML Website Template
 
-![Project Image](/screenshot1.png)
-
 ## Description
 
 Simple and free wesbite template. Free from javascript and easy to modify. 
+
+![Project Image](/screenshot1.png)
+
+## Page Elements
 
 #### Pages
 
