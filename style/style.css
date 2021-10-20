@@ -1,0 +1,132 @@
+body {
+background-color: pink;
+color:#000000;
+font-family:"Tahoma", sans-serif ;
+}
+
+table {
+  color: white;
+}
+
+img {
+float: right;
+border: 1px solid #FF512F;
+padding: 0.5%;
+margin: 1%
+}
+
+#container {
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0%;
+}
+
+#container tr {
+  width: auto;
+  height: auto;
+}
+#container table {
+    height: auto;
+    width: 100%;
+}
+#container td {
+  width: auto;
+  height: auto;
+}
+
+#menu ul{
+  list-style-type: none;
+  margin-top: 1%;
+  padding-left:1%;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#menu li a {
+  float: left;
+  display: inline-block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#menu li a:hover {
+  background-color: #FF512F;
+  color: white;
+}
+
+
+#head {
+height:auto;
+background-color:#2c2c2c;
+}
+
+#head h1 {
+text-align: left;
+margin-left: inherit;
+padding:20px 0 0 20px;
+font-size:1.8em;
+letter-spacing:.1em;
+color:#ffffff;
+font-weight:lighter;
+}
+
+#head h2 {
+text-align: left;
+margin-left: inherit;
+padding:0 0 0 20px;
+font-size:.9em;
+font-weight:lighter;
+letter-spacing:.1em;
+color:#eeeeee;
+}
+
+#content {
+padding: 3% 5% 3% 5%;
+background-color:#2c2c2c;
+line-height: 1.8em;
+}
+#content mark {
+  background-color: #FF512F;
+}
+#content em, span {
+  color: #FF512F;
+  font-style: italic;
+}
+#content p {
+padding:10px;
+color: white;
+}
+
+#content h2 {
+margin:0;
+padding:10px 0 5px 0;
+font-size:1.3em;
+letter-spacing:.1em;
+color: white;
+font-weight: lighter;
+}
+
+#content h3 {
+margin:0;
+padding:10px 0 5px 0;
+font-size:1em;
+letter-spacing:.1em;
+color: white;
+font-weight: lighter;
+}
+
+#footer {
+position:relative;
+bottom:0;
+color: white;
+margin:1% 0 0 0;
+padding:0.095%;
+height:1%;
+font-size:0.9em;
+text-align:center;
+font-weight: lighter;
+background-color:#333;
+border-bottom: 1px solid #FFFFFF;
+}
